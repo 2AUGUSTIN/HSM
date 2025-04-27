@@ -21,7 +21,7 @@ function Hero() {
             Learn More
           </a>
           <a
-            href="#book-now"
+            href="/product"
             className="bg-transparent border-2 border-white text-white px-6 py-3 rounded-full text-lg font-semibold hover:bg-white hover:text-blue-800 transition-all"
           >
             Book Now
