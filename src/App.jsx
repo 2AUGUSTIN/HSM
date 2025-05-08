@@ -56,9 +56,10 @@ function App() {
             <div>
               <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
               <ul className="space-y-2">
-                <li><Link to="/" className="text-gray-300 hover:text-white">Home</Link></li>
+                <li><Link to="/" className="text-gray-300 hover:text-pink">Home</Link></li>
                 <li><Link to="/contact" className="text-gray-300 hover:text-white">Contact</Link></li>
                 <li><Link to="/location" className="text-gray-300 hover:text-white">Location</Link></li>
+            
               </ul>
             </div>
             <div>
